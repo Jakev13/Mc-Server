@@ -587,3 +587,19 @@
 [28Nov2024 18:15:06.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id spore:inf_human
 [28Nov2024 18:15:06.717] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id spore:inf_villager
 [28Nov2024 18:15:06.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id spore:inf_villager
+[28Nov2024 18:18:46.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nix[/127.42.202.245:45269] logged in with entity id 5157 at (-204.15967513520553, 125.23152379758702, -4075.1248111471305)
+[28Nov2024 18:18:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix joined the game
+[28Nov2024 18:18:47.056] [Server thread/INFO] [Jade/]: Syncing config to Nix (2b44b8e3-b9e0-316f-92e0-5b10b22438dd)
+[28Nov2024 18:18:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix has made the advancement [First Day]
+[28Nov2024 18:18:47.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nix (18)
+[28Nov2024 18:18:47.932] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nix
+[28Nov2024 18:18:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Spectator Mode]
+[28Nov2024 18:18:56.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Survival Mode]
+[28Nov2024 18:19:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix was slain by Clicker
+[28Nov2024 18:19:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix has made the advancement [Your First Grave]
+[28Nov2024 18:19:00.478] [Server thread/INFO] [tombstone/]: The player Nix has successfully been saved
+[28Nov2024 18:19:16.712] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 18:19:17.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Teleported Nix to KenshinCoffee]
+[28Nov2024 18:20:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Creative Mode]
+[28Nov2024 18:23:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Survival Mode]
+[28Nov2024 18:24:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee has made the advancement [Stone Age]
