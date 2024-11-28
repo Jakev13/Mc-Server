@@ -762,3 +762,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Nov2024 05:01:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee joined the game
 [28Nov2024 05:01:43.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KenshinCoffee lost connection: Disconnected
 [28Nov2024 05:01:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee left the game
+[28Nov2024 05:05:01.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 05:05:01.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 05:10:01.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 05:10:01.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
