@@ -603,3 +603,24 @@
 [28Nov2024 18:20:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Creative Mode]
 [28Nov2024 18:23:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Survival Mode]
 [28Nov2024 18:24:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee has made the advancement [Stone Age]
+[28Nov2024 18:28:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Creative Mode]
+[28Nov2024 18:32:07.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix was shot by KenshinCoffee
+[28Nov2024 18:32:07.220] [Server thread/INFO] [tombstone/]: The player Nix has successfully been saved
+[28Nov2024 18:32:07.221] [Server thread/INFO] [tombstone/]: The player Nix has successfully been saved
+[28Nov2024 18:32:10.377] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 18:34:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Survival Mode]
+[28Nov2024 18:34:32.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee was shot by Nix
+[28Nov2024 18:34:32.781] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:34:32.831] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:34:32.831] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:34:36.377] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 18:35:41.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee has made the advancement [Into Fire]
+[28Nov2024 18:36:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KenshinCoffee was shot by Nix
+[28Nov2024 18:36:12.188] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:36:12.197] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:36:12.248] [Server thread/INFO] [tombstone/]: The player KenshinCoffee has successfully been saved
+[28Nov2024 18:36:13.718] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 18:36:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nix was shot by KenshinCoffee
+[28Nov2024 18:36:22.336] [Server thread/INFO] [tombstone/]: The player Nix has successfully been saved
+[28Nov2024 18:36:27.057] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 18:36:30.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KenshinCoffee: Set own game mode to Creative Mode]
