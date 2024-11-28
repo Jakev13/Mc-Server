@@ -1,0 +1,29 @@
+{
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement_0": "2024-11-28 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-28 17:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2024-11-28 18:11:29 +0000",
+      "minecraft:forest": "2024-11-28 17:49:09 +0000",
+      "minecraft:frozen_peaks": "2024-11-28 17:53:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
